@@ -42,6 +42,12 @@ body
 {
     padding: 1em;
 }
-
+#footer
+{
+    background #777;
+    color: white
+    text-align: center;
+    padding: 0.5em 
+}
 #Primer_comentario_en_el_css
 #vamos_por_el_segundo_comentario_
