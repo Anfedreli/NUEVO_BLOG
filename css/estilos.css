@@ -47,6 +47,16 @@ body
     background: white;
     padding: 1em;
 }
-
+#footer
+{
+    background #777;
+    color: white
+    text-align: center;
+    padding: 0.5em 
+}
 #Primer_comentario_en_el_css
+<<<<<<< HEAD
 #vamos_por_el_segundo_comentario
+=======
+#vamos_por_el_segundo_comentario_
+>>>>>>> 4639906 (Footer terminado)
